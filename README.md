@@ -5,65 +5,38 @@
 <!-- ABOUT THE PROJECT -->
 ## BEAM Database
 
-This project is my dissertation which got me a first-class. Markdown will only be explaining how to set up the files and I will present the abstract.
-If you would like to learn more about the project, then please, head over to my [blog post](https://erolgelbul.com/project-blog/optimising-transatlantic) for an in-depth explanation on the project. My paper is also available on the post.
+BEAM is a monitoring and access management system designed for a music festival. Components of the project:
+* development platform: EasyPHP
+* web-baseb architecture: I used the MVC (Model-View-Controller) pattern. 
+* implementation: PHP, SQL, HTML, CSS, and JavaScript.
+
+If you would like more information on the project, check out my [blog post](https://erolgelbul.com/project-blog/beam).
+
 
 <!-- ABSTRACT -->
-## Abstract
+## Setting up
 
-This report is about finding an algorithm to optimise the transatlantic flight route, departing from North America to Europe. The project aims to investigate all possible variables that affect this travel corridor, such as weather conditions, transatlantic wind maps, turbulence, airplane statistics etc. The project begins with an exploration phase with the calculation of the distance that needs to be traversed which is the great circle distance. Various trigonometry methodologies involving spherical and geodesic mathematics is introduced and one methodology is picked. After this flight path’s distance is calculated, a simulation is prepared to optimise this flight path by altering the course of the plane using tailwind and avoiding headwind to reach the destination faster. Ultimately, the final algorithm outputted a flight path that aided the flight to reach its destination 6.2 minutes faster than the flight time when the plane traversed the regular great circle distance. The algorithm achieved $3,170.34 profit for the airline company.
-
-<!-- ABSTRACT -->
-## Getting Started
-
-Before forking the files, please, make sure you have pyton3 and MATLAB installed. MATLAB is not free, therefore, you may need to get a license. If you own a license,
-please follow to MATLAB's website. The project does use additional MATLAB libraries, although if you would like to see the simulation in real-time, make sure you have MATLAB 2021b or above installed.
-
-* [MATLAB](https://uk.mathworks.com/products/matlab.html)
-* [python3](https://www.python.org/)
-
-**How to install Python 3**
-
-Links:
-- [Python](https://python.org/) homepage
-- [Python docs](https://docs.python.org/)
+1. Download [EasyPHP](https://www.easyphp.org/download.php).
+2. Download [MySQLWorkbench](https://www.mysql.com/products/workbench/)
 
 
-How to install:
+Adding the Files:
 
-- Debian/Ubuntu
-    1. Install using [apt-get](https://linux.die.net/man/8/apt-get).
-        ```sh
-        $ sudo apt-get update
-        $ sudo apt-get install python3
-        ```
-- macOS
-    1. Install [Brew](https://brew.sh).
-    2. Install Python using Brew.
-        ```sh
-        $ brew install python3
-        ```
-- Windows
-    1. Download Python from the [Windows Download](https://www.python.org/downloads/windows/) page.
-    2. Run the installer.
-        - Be sure to _check_ the box to have Python added to your PATH if the installer offers such an option (it's normally off by default).
+Note: if you do not want to go through this process, you may download the whole project folder [here](https://drive.google.com/drive/folders/135neGBZI4K0YRZd1GTQ32AlHso64hbRT?usp=sharing). (329 MB)
 
-For more details, see this gist - [Set up a Python 3 virtual environment](https://gist.github.com/MichaelCurrin/3a4d14ba1763b4d6a1884f56a01412b7).
+1. Download the project files.
+2. Open the EasyPHP folder.
+3. In the `localweb` folder, put all the `beam data` files.
+4. In the `mysql` fodlerm put all the `beam mysql` files.
+5. Run EasyPHP
+6. Press F7, or right-click and choose `Local Web`.
+7. Press on the folder icon that is right next to `beam`.
 
 
-<!-- SET-UP -->
-## Setting up MATLAB
+SQL Design in Workbench:
 
-1. Download project files.
-2. Run MATLAB.
-3. On the left pane, go to the directory where the project files are located.
-4. Launch all of the MATLAB project files on the editor by double clicking on each of them.
-5. Make sure you are on `Path_Optimisation_Gelbul.m` file on the editor.
-6. To see each section one by one, use the `Run Section` button, simply press `CTRL + ENTER`.
-7. After running the first section, a panel should appear with the title Figure 1, where you will be able to see the changes.
-
-
-<p align="right">(<a href="#top">back to top</a>)</p>
+1. After downloading Workbench.
+2. Run the file: `wrokbench.mwb.bak`
 
 
 <!-- CONTRIBUTING -->
@@ -87,15 +60,7 @@ If you would like to add any extra features to the optimisation simulation, feel
 
 Erol Gelbul - [Website](http://www.erolgelbul.com) - erolgelbul@gmail.com
 
-Project Link: [Flight Path Optimisation](https://github.com/ErolGelbul/flight_path_optimisation)
+Project Link: [BEAM Database](https://github.com/ErolGelbul/beam_database)
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
-
-
-<!-- ACKNOWLEDGMENTS -->
-## Acknowledgments
-
-I would like to thank my university for the MATLAB license, and special thanks to my supervisor, Stephen Hunt, for his time and help. 
-
-<p align="right">(<a href="#top">back to top</a>)</p>
