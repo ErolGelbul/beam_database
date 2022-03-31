@@ -22,6 +22,10 @@ I used the WAMP stack to develop this project.
 
 PHP-driven framework: [CodeIgniter](https://codeigniter.com/)
 
+Library: [GroceryCRUD](https://www.grocerycrud.com/)
+
+
+
 
 <!-- SETTING UP-->
 ## Setting up
