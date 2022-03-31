@@ -12,8 +12,20 @@ BEAM is a monitoring and access management system designed for a music festival.
 
 If you would like more information on the project, check out my [blog post](https://erolgelbul.com/project-blog/beam).
 
+<!-- TECH STACK -->
+## Tech Stack
 
-<!-- ABSTRACT -->
+I used the WAMP stack to develop this project.
+
+* Windows: operating system the stack is designed for.
+* Apache: local web server.
+* MySQL: RDBMS (relational database maangement system).
+* PHP: scripting language.
+
+PHP-driven framework: [CodeIgniter](https://codeigniter.com/)
+
+
+<!-- SETTING UP-->
 ## Setting up
 
 1. Download [EasyPHP](https://www.easyphp.org/download.php).
