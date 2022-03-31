@@ -5,10 +5,8 @@
 <!-- ABOUT THE PROJECT -->
 ## BEAM Database
 
-BEAM is a monitoring and access management system designed for a music festival. Components of the project:
-* development platform: EasyPHP
-* web-baseb architecture: I used the MVC (Model-View-Controller) pattern. 
-* implementation: PHP, SQL, HTML, CSS, and JavaScript.
+BEAM is a monitoring and access management system designed for a music festival.
+
 
 If you would like more information on the project, check out my [blog post](https://erolgelbul.com/project-blog/beam).
 
