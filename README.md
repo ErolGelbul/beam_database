@@ -72,7 +72,7 @@ If you would like to add any extra features to the optimisation simulation, feel
 <!-- CONTACT -->
 ## Contact
 
-Erol Gelbul - [Website](http://www.erolgelbul.com) - erolgelbul@gmail.com
+Erol Gelbul - [Website](http://www.erolgelbul.com)
 
 Project Link: [BEAM Database](https://github.com/ErolGelbul/beam_database)
 
