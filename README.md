@@ -1,6 +1,6 @@
 <div id="top"></div>
 
-<div style="text-align:center"><img src="images/cover_image.png" /></div>
+<div style="text-align:center"><img src="images/cover_image.jpg" /></div>
 
 <!-- ABOUT THE PROJECT -->
 ## BEAM Database
